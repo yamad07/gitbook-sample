@@ -1,10 +1,7 @@
 # Table of contents
 
-## Company
-- [ビジョン・ミッション・バリュー](./company/vmv.md)
+* [Company](./company/company.md)
+    * [ビジョン・ミッション・バリュー](./company/vmv.md)
 
-## Engineering
-- [エンジニアリング](./engineering/engineering.md)
-
-### Teams
-- [バックエンド](./engineering/teams/backend.md)
+* [Engineering](./engineering/engineering.md)
+    * [Backend Team](./engineering/teams/backend.md)
