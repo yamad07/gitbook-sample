@@ -6,8 +6,6 @@
 
 [EnablingとStreamの関係性を健全化する](https://www.notion.so/Enabling-Stream-26b7927eb376426cb611d6b9fa116af7)
 
-2022年2Qは、Backend TeamをEnabling Teamとして運営する初のクォーターです。Stream Teamをさまざまな角度からサポートしたり、共通モジュールのメンテナンス、改善を行ったり、メンバーの教育を行ったりすることで、バックエンドの技術力を底上げすることを目指します。
-
 まずは走り出しとして、バックエンドメンバーの育成とEnablingを継続的かつ複数行える組織体制を作っていきます。
 
 ## Members
